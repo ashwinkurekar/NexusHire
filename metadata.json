@@ -1,0 +1,8 @@
+
+{
+  "name": "NexusHire - Advanced Placement Portal",
+  "description": "A futuristic and interactive campus placement portal with real-time eligibility explainability, simulators, and comprehensive drive management for students and companies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
